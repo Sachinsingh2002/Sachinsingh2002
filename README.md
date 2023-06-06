@@ -2,7 +2,7 @@
 
 [![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)]()
 
-<h1 align="center">Hi <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>, I'm Sachin Singh</h1>
+<h1 align="center">Hi <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">, I'm Sachin Singh</h1>
 
 <h3 align="center">A passionate coder with a deep love for web development.👨‍💻 I find immense joy in crafting digital experiences and constantly challenging myself to push the boundaries of what's possible.💯 But coding is just the beginning of my journey—I'm an eternal student, always curious to learn new things and expand my horizons.♾️ Beyond the world of technology, you'll often find me wandering and exploring,👣 as I have an insatiable thirst for travel and a relentless desire to uncover new wonders.✈️ And when it comes to the mysteries of the universe,🌌 count me in! I'm captivated by all things related to space and science fiction,🚀 allowing my imagination to soar among the stars.🔭 Join me on this exciting adventure of coding, exploration, and the limitless possibilities of the cosmos! 😉</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif">
