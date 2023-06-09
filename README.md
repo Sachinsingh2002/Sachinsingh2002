@@ -5,7 +5,7 @@
 <h1 align="center">Hi <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">, I'm Sachin Singh</h1>
 
 <h3 align="center">A passionate coder with a deep love for web development.👨‍💻 I find immense joy in crafting digital experiences and constantly challenging myself to push the boundaries of what's possible.💯 But coding is just the beginning of my journey—I'm an eternal student, always curious to learn new things and expand my horizons.♾️ Beyond the world of technology, you'll often find me wandering and exploring,👣 as I have an insatiable thirst for travel and a relentless desire to uncover new wonders.✈️ And when it comes to the mysteries of the universe,🌌 count me in! I'm captivated by all things related to space and science fiction,🚀 allowing my imagination to soar among the stars.🔭 Join me on this exciting adventure of coding, exploration, and the limitless possibilities of the cosmos! 😉</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif">
+<img align="right" alt="Coding" width="400" src="68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinsingh2002&label=Profile%20views&color=0e75b6&style=flat" alt="sachinsingh2002" /> </p>
 
