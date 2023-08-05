@@ -8,9 +8,8 @@
 <h3 align="center">A passionate coder with a deep love for web development.👨‍💻 I find immense joy in crafting digital experiences and constantly challenging myself to push the boundaries of what's possible.💯 But coding is just the beginning of my journey—I'm an eternal student, always curious to learn new things and expand my horizons.♾️ Beyond the world of technology, you'll often find me wandering and exploring,👣 as I have an insatiable thirst for travel and a relentless desire to uncover new wonders.✈️ And when it comes to the mysteries of the universe,🌌 count me in! I'm captivated by all things related to space and science fiction,🚀 allowing my imagination to soar among the stars.🔭 Join me on this exciting adventure of coding, exploration, and the limitless possibilities of the cosmos! 😉</h3>
 
 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-
-<img align="right" alt="Coding" width="400" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d">
 
 
 
