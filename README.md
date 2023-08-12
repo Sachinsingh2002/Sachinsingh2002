@@ -35,7 +35,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://github.com/sachinsingh2002"><img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,firebase,vscode,lua"> </a> </p>
+<p align="left"> <a href="https://github.com/sachinsingh2002"><img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,firebase,vscode,figma,lua"> </a> </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinsingh2002&theme=tokyonight" alt="sachinsingh2002" /></p>
