@@ -1,6 +1,6 @@
 
 
-![MasterHead](https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif)
+
 
 
 
@@ -50,7 +50,7 @@
 
 
 
-<p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinsingh2002&theme=radical" alt="sachinsingh" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=sachinsingh2002&count_private=true&theme=radical"/></p>
+<p align='center'><img width="400px" src="https://github-readme-stats.vercel.app/api?username=sachinsingh2002&show_icons=true&theme=tokyonight" alt="sachinsingh" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=sachinsingh2002&count_private=true&theme=radical"/></p>
 
 
 
