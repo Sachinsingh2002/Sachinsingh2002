@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Hii <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> It's Sachin!  </h1>
+<h1 align="center">Hii 👋 It's Sachin.  </h1>
 
 
 
