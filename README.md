@@ -13,7 +13,7 @@
 
 
 
-<h4 align="center">I am a passionate coder.👨‍💻 I find immense joy in crafting digital experiences and constantly challenging myself to push the boundaries of what's possible.💯 But coding is just the beginning of my journey—I'm an eternal student, always curious to learn new things and expand my horizons.♾️ Beyond the world of technology, you'll often find me wandering and exploring,👣 as I have an insatiable thirst for travel and a relentless desire to uncover new wonders.✈️ And when it comes to the mysteries of the universe,🌌 count me in! I'm captivated by all things related to space and science fiction,🚀 allowing my imagination to soar among the stars.🔭 Join me on this exciting adventure of coding, exploration, and the limitless possibilities of the cosmos! 😉</h4>
+<h5 align="center">I am a passionate coder.👨‍💻 I find immense joy in crafting digital experiences and constantly challenging myself to push the boundaries of what's possible.💯 But coding is just the beginning of my journey—I'm an eternal student, always curious to learn new things and expand my horizons.♾️ Beyond the world of technology, you'll often find me wandering and exploring,👣 as I have an insatiable thirst for travel and a relentless desire to uncover new wonders.✈️ And when it comes to the mysteries of the universe,🌌 count me in! I'm captivated by all things related to space and science fiction,🚀 allowing my imagination to soar among the stars.🔭 Join me on this exciting adventure of coding, exploration, and the limitless possibilities of the cosmos! 😉</h5>
 
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
@@ -50,8 +50,6 @@
 
 
 
-<p align='center'><img width="400px" src="https://github-readme-stats.vercel.app/api?username=sachinsingh2002&show_icons=true&theme=tokyonight" alt="sachinsingh" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=sachinsingh2002&count_private=true&theme=radical"/></p>
-
 
 
 
@@ -59,5 +57,11 @@
  <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=ff33df&size=20&center=true&vCenter=true&width=600&height=50&lines=Show+some+%E2%9D%A4%EF%B8%8F+by+starring+some+of+the+repositories!;" alt="Headline" />
     </div>
+
+
+
+   
+
+
 
 
