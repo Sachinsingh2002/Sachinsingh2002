@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Hii 👋 It's Sachin.  </h1>
+<h1 align="center">Namaste 🙏 it's Sachin.  </h1>
 
 
 
