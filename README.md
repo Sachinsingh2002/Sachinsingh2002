@@ -43,7 +43,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://github.com/sachinsingh2002"><img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,firebase,vscode,superbase,figma,react,azure,lua,powerBi"> </a> </p>
+<p align="left"> <a href="https://github.com/sachinsingh2002"><img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,firebase,vscode,figma,react,azure,lua,powerBi,Superbase"> </a> </p>
 
 
 
