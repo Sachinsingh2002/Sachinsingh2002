@@ -25,6 +25,7 @@
 
 <p align="left"> <a href="https://github.com/sachinsingh2002"><img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,bootstrap,firebase,vscode,supabase,figma,notion,react,azure,typescript,nextjs"> </a> </p>
 
+
 <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=ff33df&size=20&center=true&vCenter=true&width=600&height=50&lines=Show+some+%E2%9D%A4%EF%B8%8F+by+starring+some+of+the+repositories!;" alt="Headline" />
     </div>
