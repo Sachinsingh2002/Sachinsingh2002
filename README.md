@@ -21,8 +21,8 @@
 <a href="https://instagram.com/sachinsingh2002" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="sachinsingh2002" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://github.com/sachinsingh2002"><img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,bootstrap,firebase,vscode,supabase,figma,notion,react,azure,typescript,nextjs"> </a> </p>
 
 
