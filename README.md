@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/51473fbf-094d-4be3-9e2c-4c23d091e34a)<h1 align="center">Namaste 🙏 it's Sachin.  </h1>
+<h1 align="center">Namaste 🙏 it's Sachin.  </h1>
 
 <h2 align="center">𝙻𝚒𝚟𝚒𝚗𝚐 - 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 - 𝙻𝚎𝚟𝚎𝚕𝚒𝚗𝚐 𝚞𝚙</h2>
 
