@@ -23,7 +23,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://github.com/sachinsingh2002"><img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,bootstrap,firebase,vscode,supabase,figma,notion,react,azure,typescript,nextjs"> </a> </p>
+<p align="left"> <a href="https://github.com/sachinsingh2002"><img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,bootstrap,firebase,vscode,supabase,figma,notion,react,azure,typescript,nextjs,vercel"> </a> </p>
 
 
 <div align=center>
