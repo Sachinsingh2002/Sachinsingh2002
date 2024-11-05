@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently working on developing **Coding skills**
 
-- 💬 Ask me about **C/C++, HTML/CSS/JS, >Python**
+- 💬 Ask me about **java, C/C++, HTML/CSS/JS, >Python**
 
-- 📝 I'm Active on [instagram](https://www.instagram.com/sachinsingh2002/)
+- 🤖 Love using AI tools to boost productivity and explore the latest in tech innovation.
 
 - 📫 Reach me on **sachinsingh2002.ssss@gmail.com**
 
